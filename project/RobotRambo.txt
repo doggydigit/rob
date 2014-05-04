@@ -1,0 +1,11 @@
+0 E Core 0
+	0 T LeftSensor 0
+	4 F LeftShoulder 0
+		0 H LeftArm 1
+			0 J LeftFrontWheel 0 0.04
+	5 F RightShoulder 0
+		2 T RightSensor 0
+		0 F RightRightShoulder 0
+			0 H RightArm 1
+				0 J RightFrontWheel 0 0.04
+

@@ -1,0 +1,16 @@
+0 E Core 0
+	1 T MiddleSensor 0
+	4 B RightAntenna 0 0.05 0.8 0
+		0 T RightSensor 0
+	5 B LeftAntenna 0 0.05 -0.8 0
+		0 T LeftSensor 0
+	0 I FrontHinge 1
+		0 F FrontCube 0
+			1 J FrontLeftWheel 0 0.03
+			2 J FrontRightWheel 0 0.03
+			0 I MiddleHinge 0
+				0 F MiddleCube 0
+					0 I BackHinge 0
+						0 F BackCube 0
+							1 W BackLeftWheel 0 0.03
+							2 W BackRightWheel 0 0.03
