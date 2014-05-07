@@ -1,11 +1,16 @@
 0 E Core 0
-	0 T LeftSensor 0
+	0 T MiddleSensor 0
+	2 F Head 3
+		1 L Eye 0
 	4 F LeftShoulder 0
-		0 H LeftArm 1
-			0 J LeftFrontWheel 0 0.04
+		0 J LeftFrontWheel 0 0.04
+		1 T LeftSensor 0
+		2 F MiddleLeftCube 0
+			0 F BackLeftCube 0
+				3 J BackWheel 0 0.04
 	5 F RightShoulder 0
+		0 J RightFrontWheel 0 0.04
+		1 F MiddleRightCube 0
+			0 F BackRightCube 0
 		2 T RightSensor 0
-		0 F RightRightShoulder 0
-			0 H RightArm 1
-				0 J RightFrontWheel 0 0.04
 
