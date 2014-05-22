@@ -1,0 +1,11 @@
+0 E Core 0
+	0 J LeftWheel 0 0.04
+	1 J RightWheel 0 0.04
+	2 F Head 0
+		1 L Eye 0
+		2 L Eye2 0
+		3 L Eye3 3
+		4 L Eye4 3
+	4 F Belly 0
+	5 F Butt 0
+	

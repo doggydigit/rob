@@ -1,0 +1,10 @@
+0 E Core 0
+	0 T MiddleSensor 0
+	2 F Head 0
+		3 L Camera 1
+	4 J LeftFrontWheel 0 0.04
+	5 J RightFrontWheel 0 0.04
+	1 B Tail 1 0.06 -0.7 0
+		0 B Middle 0 0.02 1.57 0
+			0 B Anchor 0 0.02 0.7 0
+				0 W TailWheel 0 0.04

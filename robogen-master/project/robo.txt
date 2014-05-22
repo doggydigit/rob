@@ -1,0 +1,68 @@
+0 CoreComponent Core 0
+	0 TouchSensor MiddleSensor 0
+	2 FixedBrick Head 3
+		1 LightSensor Eye 0
+	4 FixedBrick LeftShoulder 0
+		0 ActiveWheel LeftFrontWheel 0 0.04
+		1 TouchSensor LeftSensor 0
+		2 FixedBrick MiddleLeftCube 0
+			0 FixedBrick BackLeftCube 0
+				3 ActiveWheel BackWheel 0 0.04
+	5 FixedBrick RightShoulder 0
+		0 ActiveWheel RightFrontWheel 0 0.04
+		1 FixedBrick MiddleRightCube 0
+			0 FixedBrick BackRightCube 0
+		2 TouchSensor RightSensor 0
+
+BackWheel 0 BackWheel 0 0.192337170243
+BackWheel 0 LeftFrontWheel 0 1.70114612579
+BackWheel 0 RightFrontWheel 0 1.75285899639
+Core 0 BackWheel 0 2.33055233955
+Core 0 LeftFrontWheel 0 -2.58150696754
+Core 0 RightFrontWheel 0 -0.164136782289
+Core 1 BackWheel 0 0.238238543272
+Core 1 LeftFrontWheel 0 0.295829415321
+Core 1 RightFrontWheel 0 -0.281873583794
+Core 2 BackWheel 0 3.0
+Core 2 LeftFrontWheel 0 -1.93810856342
+Core 2 RightFrontWheel 0 2.6010222435
+Core 3 BackWheel 0 3.0
+Core 3 LeftFrontWheel 0 -2.16308736801
+Core 3 RightFrontWheel 0 0.524783372879
+Core 4 BackWheel 0 0.963754296303
+Core 4 LeftFrontWheel 0 0.44634577632
+Core 4 RightFrontWheel 0 0.598457872868
+Core 5 BackWheel 0 0.358637571335
+Core 5 LeftFrontWheel 0 0.67275762558
+Core 5 RightFrontWheel 0 -0.407235652208
+Eye 0 BackWheel 0 1.46053338051
+Eye 0 LeftFrontWheel 0 -0.358663231134
+Eye 0 RightFrontWheel 0 1.43301236629
+LeftFrontWheel 0 BackWheel 0 0.0407928973436
+LeftFrontWheel 0 LeftFrontWheel 0 -0.669047355652
+LeftFrontWheel 0 RightFrontWheel 0 1.3062235117
+LeftSensor 0 BackWheel 0 1.11217176914
+LeftSensor 0 LeftFrontWheel 0 0.0785160511732
+LeftSensor 0 RightFrontWheel 0 1.56430160999
+LeftSensor 1 BackWheel 0 1.42622804642
+LeftSensor 1 LeftFrontWheel 0 0.547505497932
+LeftSensor 1 RightFrontWheel 0 -0.652332782745
+MiddleSensor 0 BackWheel 0 -1.10086834431
+MiddleSensor 0 LeftFrontWheel 0 0.364695161581
+MiddleSensor 0 RightFrontWheel 0 0.163138061762
+MiddleSensor 1 BackWheel 0 -1.69332766533
+MiddleSensor 1 LeftFrontWheel 0 1.37105989456
+MiddleSensor 1 RightFrontWheel 0 0.821056127548
+RightFrontWheel 0 BackWheel 0 -0.715331912041
+RightFrontWheel 0 LeftFrontWheel 0 0.0822762548923
+RightFrontWheel 0 RightFrontWheel 0 1.31399226189
+RightSensor 0 BackWheel 0 0.851449489594
+RightSensor 0 LeftFrontWheel 0 1.64038681984
+RightSensor 0 RightFrontWheel 0 -0.446347475052
+RightSensor 1 BackWheel 0 0.385881006718
+RightSensor 1 LeftFrontWheel 0 -0.215717568994
+RightSensor 1 RightFrontWheel 0 1.50417947769
+
+BackWheel 0 2.05308556557
+LeftFrontWheel 0 0.683010160923
+RightFrontWheel 0 0.66660118103

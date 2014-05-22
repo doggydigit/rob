@@ -1,0 +1,16 @@
+simulatorConfFile=conf.txt
+referenceRobotFile=RobotSnake.txt
+mu=20
+lambda=20
+selection=deterministic-tournament
+replacement=plus
+tournamentSize=2
+numGenerations=300
+evolutionMode=brain
+pBrainMutate=.45
+brainSigma=.7
+brainBounds=-3:3
+pBrainCrossover=.6
+socket=127.0.0.1:8001
+#socket=127.0.0.1:8002
+#socket=127.0.0.1:8003
